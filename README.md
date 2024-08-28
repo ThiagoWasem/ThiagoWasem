@@ -1,6 +1,6 @@
 <h1><b>Estudante Web Full Stack</b></h1>
 
-👨‍💻 Focado desenvolvimento FullStack, com foco em aprendizado constante e aplicação de boas práticas."<br>
+👨‍💻 Focado desenvolvimento Full Stack, com foco em aprendizado constante e aplicação de boas práticas."<br>
 🎓 Estudante de Desenvolvimento de Sistemas.<br>
 🌐 Busco construir aplicações web robustas e intuitivas.<br>
 <h1>Habilidades</h1>
