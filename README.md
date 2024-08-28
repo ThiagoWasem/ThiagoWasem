@@ -6,7 +6,7 @@
 <h1>Habilidades</h1>
 <h2>Frontend</h2>
 HTML5, CSS3, JavaScript (ES6+), Python, PHP<br>
-Frameworks: React.
+Frameworks: React. <br>
 Design responsivo e acessibilidade<br>
 <h2>Backend</h2>
 Node.js, 
