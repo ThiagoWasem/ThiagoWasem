@@ -1,16 +1,16 @@
 <h1><b>Estudante Web Full Stack</b></h1>
 
-👨‍💻 Experiência sólida em desenvolvimento web Front End.<br>
+👨‍💻 Focado desenvolvimento FullStack, com foco em aprendizado constante e aplicação de boas práticas."<br>
 🎓 Estudante de Desenvolvimento de Sistemas.<br>
-🌐 Especializado em construir aplicações web robustas e intuitivas.<br>
+🌐 Busco construir aplicações web robustas e intuitivas.<br>
 <h1>Habilidades</h1>
 <h2>Frontend</h2>
 HTML5, CSS3, JavaScript (ES6+), Python, PHP<br>
-Frameworks: React, CodeIgniter,
+Frameworks: React.
 Design responsivo e acessibilidade<br>
 <h2>Backend</h2>
 Node.js, 
-Banco de Dados:  MySQL, ORACLE
+Banco de Dados:  MySQL
 APIs
 Ferramentas e Outras Habilidades<br>
 Controle de Versão: Git, GitHub
@@ -22,8 +22,6 @@ Controle de Versão: Git, GitHub
         alt="HTML5">
     <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
         alt="CSS3">
-    <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-        alt="Bootstrap"><br><br>
     <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
         alt="JavaScript">
     <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
