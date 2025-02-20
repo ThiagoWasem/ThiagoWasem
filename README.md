@@ -1,8 +1,8 @@
-<h1><b>Estudante Web Full Stack</b></h1>
+<h1><b>Estudante de Ciências da Computação</b></h1>
 
 👨‍💻 Focado desenvolvimento Full Stack, com foco em aprendizado constante e aplicação de boas práticas."<br>
 🎓 Estudante na faculdade de Ciências da Computação.<br>
-🌐 Busco construir aplicações web robustas e intuitivas.<br>
+🌐 Busco construir aplicações robustas e intuitivas.<br>
 <h1>Habilidades</h1>
 <h2>Frontend</h2>
 HTML5, CSS3, JavaScript (ES6+), Python, PHP<br>
