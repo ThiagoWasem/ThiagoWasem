@@ -1,7 +1,7 @@
 <h1><b>Estudante Web Full Stack</b></h1>
 
 👨‍💻 Focado desenvolvimento Full Stack, com foco em aprendizado constante e aplicação de boas práticas."<br>
-🎓 Formado no Curso Técnico de Desenvolvimento de Sistemas do SENAI.<br>
+🎓 Estudante na faculdade de Ciências da Computação.<br>
 🌐 Busco construir aplicações web robustas e intuitivas.<br>
 <h1>Habilidades</h1>
 <h2>Frontend</h2>
